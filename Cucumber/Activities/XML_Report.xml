@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="5.916" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Data Driven Test Without Example" name="Testing with correct data from scenario" time="2.914">
+<system-out><![CDATA[
+Given User is on Login Page.................................................passed
+When User enters "admin" and "password".....................................passed
+Then Read the page title and confirmation message...........................passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
